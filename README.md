@@ -10,6 +10,10 @@ https://user-images.githubusercontent.com/98194848/189546845-f32dc4d3-c053-40db-
 
 
 
+https://user-images.githubusercontent.com/98194848/189547038-3b3a588a-1314-4dfd-bbf3-dfcb96d7c10c.mp4
+
+
+
 
 Use this format when running the program on the command line (initial forest state file, the file to record the final forest state, and how long to run the program):
 java ForestSimulation fire.txt fire_out2.txt 1000
