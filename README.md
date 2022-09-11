@@ -1,5 +1,5 @@
-# This programs is a forest fire visualizer/simulation. Using object oriented programming, we were able to simulate how a forest fire might spread in the wild 
-# each tree = one pixel, and as it burns, the tree turns from green (healthy) -> yellow/red (burning) -> black (burnt), and has a chance to regrow
+# This program is a forest fire visualizer/simulation. Using object oriented programming, we were able to simulate how a forest fire might spread in the wild.
+# each tree = one pixel, and as it burns, the tree turns from green (healthy) -> yellow/red (burning) -> black (burnt), and has a chance to regrow.
 # I co-wrote this program in April/May 2022 with my friend Joey, and the project was assigned by my professor.
 
 # Video demo:
